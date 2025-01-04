@@ -1,0 +1,59 @@
+[
+    {
+        "id" : 1,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet tempar",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735811539~exp=1735815139~hmac=aa3e17a31830c21a54e7d6e7c5009f506fe788c0adbe4700e778e50988f9675f&w=740"
+    },
+
+    {
+        "id" : 2,
+        "name": "Comic Book",
+        "title": "lorem ipsum dolor sit amet tempar",
+        "price": 40,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735811539~exp=1735815139~hmac=aa3e17a31830c21a54e7d6e7c5009f506fe788c0adbe4700e778e50988f9675f&w=740"
+    },
+    {
+        "id" : 3,
+        "name": "History Book",
+        "title": "lorem ipsum dolor sit amet tempar",
+        "price": 100,
+        "category": "Knowledge",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735811539~exp=1735815139~hmac=aa3e17a31830c21a54e7d6e7c5009f506fe788c0adbe4700e778e50988f9675f&w=740"
+    },
+    {
+        "id" : 4,
+        "name": "Sports Book",
+        "title": "lorem ipsum dolor sit amet tempar",
+        "price": 150,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735811539~exp=1735815139~hmac=aa3e17a31830c21a54e7d6e7c5009f506fe788c0adbe4700e778e50988f9675f&w=740"
+    },
+    {
+        "id" : 5,
+        "name": "Music Book",
+        "title": "lorem ipsum dolor sit amet tempar",
+        "price": 160,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735811539~exp=1735815139~hmac=aa3e17a31830c21a54e7d6e7c5009f506fe788c0adbe4700e778e50988f9675f&w=740"
+    },
+    {
+        "id" : 6,
+        "name": "Food Book",
+        "title": "lorem ipsum dolor sit amet tempar",
+        "price": 170,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735811539~exp=1735815139~hmac=aa3e17a31830c21a54e7d6e7c5009f506fe788c0adbe4700e778e50988f9675f&w=740"
+    },
+    {
+        "id" : 7,
+        "name": "Blog Book",
+        "title": "lorem ipsum dolor sit amet tempar",
+        "price": 170,
+        "category": "Blog",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735811539~exp=1735815139~hmac=aa3e17a31830c21a54e7d6e7c5009f506fe788c0adbe4700e778e50988f9675f&w=740"
+    }
+]

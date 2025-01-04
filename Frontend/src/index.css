@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  body{
+    font-family: 'Poppins', sans-serif;
+  }
+  .slick-dots {
+    display: block !important; /* Ensure dots are displayed */
+    position: absolute;
+    bottom: -25px; /* Adjust the position if dots are hidden */
+    text-align: center;
+    width: 100%;
+  }
+
+.card-div{
+  z-index:9;
+  position:relative;
+}
